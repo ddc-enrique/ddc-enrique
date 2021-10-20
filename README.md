@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enrique Durand de Cassis</h1>
 <h3 align="center">I am a FullStack Developer aspiring to enter as a Junior in a company. For the purpose of joining a team to develop web / mobile applications</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ddc-enrique](https://github.com/ddc-enrique)
 
 - 📫 How to reach me **ddc.enrique@gmail.com**
