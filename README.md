@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enrique Durand de Cassis</h1>
 <h3 align="center">I am a FullStack Developer aspiring to enter as a Junior in a company. For the purpose of joining a team to develop web / mobile apps</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ddc-enrique](https://github.com/ddc-enrique)
+- 👨‍💻 All of my projects are available at [github.com/ddc-enrique](https://github.com/ddc-enrique)
 
 - 📫 How to reach me **ddc.enrique@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3E473zh](https://bit.ly/3E473zh)
+- 📄 Know about my experiences [linkedin.com/ddc-enrique](https://www.linkedin.com/in/ddc-enrique)
 
 - ⚡ Fun fact **I am River Plate ⚽🐔 supporter-fan**
 
