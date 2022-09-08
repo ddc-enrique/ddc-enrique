@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enrique Durand de Cassis</h1>
-<h3 align="center">I am a FullStack Developer aspiring continue growing in intereting projects. For the purpose of joining a team to develop web / mobile apps</h3>
+<h3 align="center">I am a FullStack Developer aspiring to continue growing as profesional in intereting projects. For the purpose of joining a team to develop web / mobile apps</h3>
 
 - 👨‍💻 Some of my projects are available at [github.com/ddc-enrique](https://github.com/ddc-enrique)
 
